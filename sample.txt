@@ -1,0 +1,10 @@
+Jan 20 11:20:41 Arch ssserver[219]: 2016-01-20 11:20:41 INFO     connecting mtalk.google.com:5228 from 221.226.85.250:63677
+Jan 20 11:22:41 Arch ssserver[219]: 2016-01-20 11:22:41 WARNING  timed out: mtalk.google.com:5228
+Jan 20 11:22:42 Arch ssserver[219]: 2016-01-20 11:22:42 INFO     connecting mtalk.google.com:5228 from 221.226.85.250:63693
+Jan 20 11:23:05 Arch ssserver[219]: 2016-01-20 11:23:05 INFO     connecting clients4.google.com:443 from 221.226.85.250:63697
+Jan 20 11:23:52 Arch ssserver[219]: 2016-01-20 11:23:52 INFO     connecting safebrowsing.google.com:443 from 221.226.85.250:63720
+Jan 20 11:23:52 Arch ssserver[219]: 2016-01-20 11:23:52 INFO     connecting safebrowsing.google.com:443 from 221.226.85.250:63722
+Jan 20 11:23:53 Arch ssserver[219]: 2016-01-20 11:23:53 INFO     connecting safebrowsing-cache.google.com:443 from 221.226.85.250:63724
+Jan 20 11:24:44 Arch ssserver[219]: 2016-01-20 11:24:44 WARNING  timed out: mtalk.google.com:5228
+Jan 20 11:24:45 Arch ssserver[219]: 2016-01-20 11:24:45 INFO     connecting mtalk.google.com:5228 from 221.226.85.250:63746
+Jan 20 11:25:13 Arch ssserver[219]: 2016-01-20 11:25:13 WARNING  timed out: clients4.google.com:443

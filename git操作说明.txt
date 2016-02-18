@@ -1,0 +1,10 @@
+git init #创建本地仓库
+
+git add . #添加本地仓库下所有文件
+git commit -m "message"  # 每次代码改完后的说明
+git remote add origin https://github.com/willwinworld/dota_crawler.git # 给远端URL起的名字，远端导师的外号叫origin（远端github并不知道）,orginal是本地的快捷方式
+git push origin master #把代码推送到远端仓库                           # 相当于给F盘建立了快捷方式放在桌面，桌面就是本地，而F盘就是远端
+                                                                       # origin相当于给sb导师起的别名，而导师并不知道，只需要创建一个指向导师的链接就行了，而这个链接就是 https://github.com/willwinworld/dota_crawler.git
+
+
+下次提交代码的时候只需使用3,4，6行就行了，第三行采用git add 文件名
